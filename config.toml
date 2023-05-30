@@ -1,0 +1,4 @@
+baseURL = 'http://ntl.github.io/'
+languageCode = 'en-us'
+title = 'NTL new site'
+theme = 'LoveIt'
