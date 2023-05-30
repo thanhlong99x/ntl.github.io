@@ -1,0 +1,9 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>NTL new site</title>
+        <link>http://thanhlong99x.github.io/ntl.github.io/</link>
+        <description>This is my cool site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 30 May 2023 10:36:43 &#43;0700</lastBuildDate>
+            <atom:link href="http://thanhlong99x.github.io/ntl.github.io/index.xml" rel="self" type="application/rss+xml" />
+        </channel>
+</rss>
